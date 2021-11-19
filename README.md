@@ -1,3 +1,6 @@
 # Saarthi.ai
 
-# train.py created log files which can be accessed locally after every run.
+### train.py 
+input = train.csv
+output = (models = text_to_object.h5,  text_to_object.h5,  text_to_location.h5
+### In evaluation.py
